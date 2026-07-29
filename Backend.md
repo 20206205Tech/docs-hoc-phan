@@ -1,6 +1,7 @@
-Hệ điều hành (linux)
-
-Cơ sở dữ liệu (sql)
+<!-- Mạng DNS.... -->
+<!-- git: github, gitlab -->
+<!-- Hệ điều hành (linux) -->
+<!-- Cơ sở dữ liệu (sql) -->
 
 Phân tích và thiết kế hệ thống (uml)
 
@@ -10,7 +11,6 @@ Cấu trúc dữ liệu và giải thuật
 
 Toán rời rạc
 
-git
 
 Microservice
 
@@ -21,3 +21,28 @@ message queue : RabbitMQ kafka
 gRPC Rest
 
 docker Kubernetes
+
+
+Microservice
+
+kafka
+
+công ty
+
+test IQ
+
+RAG AI....
+
+
+
+* Python và JavaScript cơ bản.
+* Kiến thức về LLM (OpenAI API, Gemini, Claude...).
+* Prompt Engineering.
+* AI Agent và Workflow.
+* REST API.
+* Git.
+* Xử lý JSON.
+* Automation (ví dụ: LangChain, LangGraph, MCP, n8n hoặc các framework tương tự là một lợi thế).
+* Kỹ năng đọc tài liệu tiếng Anh.
+
+* Trí tuệ nhân tạo (AI)
